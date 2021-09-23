@@ -1,0 +1,34 @@
+h1 {
+  color: rgb(0, 68, 255);
+  font-size: 40px;
+}
+.row1 {
+  color: peru;
+}
+form {
+  margin: 30px auto;
+}
+.fa-sun {
+  color: orange;
+  font-size: 50px;
+}
+.temperature,
+.units {
+  font-size: 40px;
+}
+.extra-information {
+  font-size: 13px;
+}
+.weather-icon {
+  color: orange;
+  font-size: 30px;
+}
+.card {
+  text-align: center;
+}
+.container {
+  max-width: 600px;
+}
+h2 {
+  color: grey;
+}
